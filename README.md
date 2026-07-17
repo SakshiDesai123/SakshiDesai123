@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="NEXUS AI Banner">
-</p>
-
 <div align="center">
 
-# 🧠 NEXUS AI
-
-## Sakshi Desai
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=950&lines=Hello+World!+%F0%9F%91%8B;I'm+Sakshi+Desai;Python+Developer+%7C+AI+Engineer" />
+</p>
 
 ### Python Developer • AI Engineer • Backend Developer
 
@@ -237,7 +233,7 @@ Email
 
 <div align="center">
 
-⭐ Thanks for visiting **NEXUS AI**
+⭐ Thanks for visiting 
 
 *"Code. Learn. Build. Repeat."*
 
