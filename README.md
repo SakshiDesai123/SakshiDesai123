@@ -231,6 +231,20 @@ Email
 
 > *"Every intelligent system starts with one line of code."*
 
+
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting **NEXUS AI**
+
+*"Code. Learn. Build. Repeat."*
+
+
+
+</div>
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C4DFF&height=120&section=footer"/>
