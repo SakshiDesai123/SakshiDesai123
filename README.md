@@ -148,7 +148,17 @@ My goal is to build scalable applications that solve real-world problems through
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SakshiDesai123&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiDesai123&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+
+
+</div>
 
 
 
