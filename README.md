@@ -1,216 +1,241 @@
 <p align="center">
-<img src="assets/banner.png" width="100%">
-</p>]
+  <img src="assets/banner.png" width="100%" alt="NEXUS AI Banner">
+</p>
 
 <div align="center">
 
 # 🧠 NEXUS AI
 
-### Sakshi Desai
+## Sakshi Desai
 
 ### Python Developer • AI Engineer • Backend Developer
 
-> Building intelligent systems with Python, AI, Computer Vision and Backend technologies.
+**Building intelligent software with Python, AI, Computer Vision & Backend Engineering.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=Python+Developer;AI+Engineer;Backend+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"/>
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Python+Developer;AI+Engineer;Backend+Developer;Computer+Vision;Always+Learning+New+Technologies"/>
+</p>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+<p>
+<img src="https://komarev.com/ghpvc/?username=SakshiDesai123&style=for-the-badge&color=00E5FF"/>
+<img src="https://img.shields.io/github/followers/SakshiDesai123?style=for-the-badge&color=7C4DFF"/>
+<img src="https://img.shields.io/github/stars/SakshiDesai123?affiliations=OWNER&style=for-the-badge&color=00FF88"/>
+</p>
 
 </div>
 
 ---
 
-# 🧠 NEXUS AI Boot Sequence
+## 🚀 Navigation
+
+<p align="center">
+
+<a href="#-system-status">System</a> •
+<a href="#-mission-brief">Mission</a> •
+<a href="#-tech-arsenal">Tech Stack</a> •
+<a href="#-active-projects">Projects</a> •
+<a href="#-github-dashboard">Analytics</a> •
+<a href="#-learning-dashboard">Learning</a> •
+<a href="#-communication-hub">Contact</a>
+
+</p>
+
+---
+
+# ⚡ System Status
 
 ```text
-██████████████████████████████
+╔══════════════════════════════════════════════╗
 
-Initializing NEXUS AI...
+        NEXUS AI INITIALIZED
 
-✓ Loading Python Engine
-✓ Loading AI Modules
-✓ Connecting Backend Services
-✓ Initializing Computer Vision
-✓ Syncing GitHub Projects
+ Python Engine .............. 🟢 ONLINE
 
-STATUS : ONLINE
+ AI Modules ................. 🟢 ACTIVE
 
-Welcome, Visitor.
+ Backend Services ........... 🟢 RUNNING
+
+ Computer Vision ............ 🟢 READY
+
+ GitHub Sync ................ 🟢 COMPLETE
+
+ Learning Mode .............. 🟢 ENABLED
+
+═══════════════════════════════════════════════
+
+ Welcome to my AI Workspace
+
+╚══════════════════════════════════════════════╝
 ```
 
 ---
 
-# 🚀 Mission
+# 🚀 Mission Brief
 
-I enjoy building software that combines **Python**, **Artificial Intelligence**, and **Backend Development** to solve real-world problems.
+I enjoy building intelligent software by combining:
 
-Currently focusing on
+- 🐍 Python
+- 🤖 Artificial Intelligence
+- 👁 Computer Vision
+- ⚙ Backend Development
+- 🗄 SQL Databases
 
-- Python
-- FastAPI
-- SQL
-- AI Engineering
-- Computer Vision
-- Machine Learning
-- Open Source
+My goal is to build scalable applications that solve real-world problems through clean architecture and practical AI.
 
 ---
 
 # ⚙ Tech Arsenal
 
-## Programming
+<div align="center">
 
-![Python](https://skillicons.dev/icons?i=python)
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,mongodb,sqlite,git,github,vscode,docker,aws"/>
 
-## Backend
+</div>
 
-![Backend](https://skillicons.dev/icons?i=fastapi,flask)
-
-## Database
-
-![Database](https://skillicons.dev/icons?i=mysql,mongodb)
-
-## Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
-
-## Learning
-
-![Learning](https://skillicons.dev/icons?i=docker,aws)
+| Area | Technologies |
+|------|--------------|
+| Programming | Python, SQL |
+| Backend | FastAPI, Flask, REST APIs |
+| AI | OpenCV, YOLO, NumPy, Pandas |
+| Database | MySQL, SQLite, MongoDB |
+| Tools | Git, GitHub, VS Code |
+| Learning | Docker, AWS, Machine Learning |
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Active Projects
 
 ## 🛰 AI Surveillance System
 
-AI-powered surveillance platform using
+> Real-time surveillance platform using Python, OpenCV and YOLO.
 
-- Python
-- OpenCV
-- YOLO
-
-Features
+### Highlights
 
 - Object Detection
 - Motion Detection
-- Real-time Alerts
+- Smart Alerts
+- Real-Time Processing
 
 ---
 
 ## 🎓 Exam Proctor AI
 
-AI-powered online examination monitoring system
+> AI-powered examination monitoring system.
 
-Tech
+### Highlights
 
-- Flask
-- YOLOv8
-- OpenCV
-- SQLite
-
-Features
-
-- Face Monitoring
+- Face Detection
 - Object Detection
 - Live Dashboard
+- Flask Backend
 
 ---
 
 ## 🛒 QuickPick
 
-Smart Grocery Management System
+> Smart Grocery Management System.
 
-Tech
-
-- Python
-- Tkinter
-- SQLite
-
-Features
+### Highlights
 
 - Billing
 - Inventory
 - Voice Commands
+- SQLite Database
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Dashboard
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SakshiDesai123&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiDesai123&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
----
+<br>
 
-# 💻 Languages
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiDesai123&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🌱 Current Learning
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SakshiDesai123&theme=algolia&row=1&column=6&margin-w=15"/>
+
+</div>
+
+---
+
+# 🌱 Learning Dashboard
 
 ```text
-Python           ████████████████
-SQL              ███████████████
-FastAPI          ████████████
-Machine Learning █████████
-Docker           ██████
-AWS              █████
+Python               ████████████████████
+
+SQL                  ██████████████████
+
+FastAPI              ███████████████
+
+Machine Learning     ██████████
+
+Docker               ███████
+
+AWS                  █████
 ```
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Current Objectives
 
-- Build production-ready AI applications
-- Master FastAPI
-- Learn Docker and AWS
-- Contribute to Open Source
-- Publish technical blogs
-- Land a Software Development role
+- ✅ Build Production AI Applications
+- ✅ Master FastAPI
+- ✅ Learn Docker
+- ✅ Learn AWS
+- ✅ Improve System Design
+- ✅ Contribute to Open Source
+- 🎯 Become a Software Engineer
 
 ---
 
-# 📡 Connect
+# 📡 Communication Hub
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/SakshiDesai123">
 GitHub
 </a>
 
-|
+•
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="linkedin.com/in/sakshi-desai-738373260 ">
 LinkedIn
 </a>
 
-|
+•
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sakshidesai0509@gmail.com">
 Email
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting NEXUS AI
+### 💭 AI Philosophy
 
-*"Building the future, one intelligent system at a time."*
+> *"Every intelligent system starts with one line of code."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C4DFF&height=120&section=footer"/>
 
 </div>
